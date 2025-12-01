@@ -1,0 +1,18 @@
+{
+  "owner": {
+    "username": "lianghx",
+    "email": "hongxing_liang@163.com"
+  },
+  "record": {
+    "A": ["你的服务器IP地址"]
+  }
+}
+
+{
+  "owner": {
+    "username": "你的GitHub用户名"
+  },
+  "record": {
+    "CNAME": "你的用户名.github.io"
+  }
+}
